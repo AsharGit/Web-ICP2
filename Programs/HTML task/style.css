@@ -1,0 +1,13 @@
+.quote {
+    font-style: italic;
+}
+
+.year {
+    color: red;
+}
+
+.poster {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
